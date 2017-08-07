@@ -25,7 +25,7 @@ SECRET_KEY = 'h5chp(25gq@k$%*cr5+)y5p&-g)idqg32mr4$+gv_=4_e_44$4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'quorasearch.pythonanywhere.com']
 
 
 # Application definition
